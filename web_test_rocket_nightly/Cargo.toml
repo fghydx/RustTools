@@ -1,0 +1,16 @@
+[package]
+name = "web_test_rocket_nightly"
+version = "0.1.0"
+authors = ["fghydx <5909386@qq.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+gl-windows = {path="../gl-windows"}
+gl-log = {path="../gl-log"}
+#actix-web = "3.0.0-beta.3"
+rocket = "0.4.5"
+#may_minihttp = { git = "https://github.com/Xudong-Huang/may_minihttp.git" }
+#tide = "0.12.0"
+#async-std = { version = "1.6.0", features = ["attributes"] }

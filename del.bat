@@ -1,0 +1,10 @@
+del /s *.o
+del /s *.a
+del /s *.d
+del /s *.dll
+del /s *.bin
+del /s *.rlib
+del /s *.rmeta
+del /s *.rmeta
+del /s *.exe
+del /s *.pdb
